@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "actual first post"
+date:   2017-09-06 19:12:04 -0500
+categories: jekyll update
+---
+wow you sure showed me with those hot opinions
+
+el siguiente es un sitio personal que refleja con toda regla las opiniones del autor. la intención es enseñar los gustos y preferencias musicales del autor, y algunas opiniones y análisis también.
+
+para introducir está bien algo de Pond, porque son de lo mejor. (ni siquiera había visto el vídeo, gracias Spotify)
+
+***
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iNbPg6zKmPI" target="_blank">
+<img src="http://img.youtube.com/vi/iNbPg6zKmPI/0.jpg" alt="Pond" width="240" height="180" border="10"/></a>
