@@ -19,14 +19,15 @@ description: > # this means to ignore newlines until "baseurl:"
   It's just a small jekyll blog, nothing fancy. Some of my thoughts and opinions on things.
 domain: https://nomennescio1.github.io    # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://nomennescio1.github.io/blog-jekyll  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /blog-jekyll/      # place folder name if the site is served in a subfolder
+baseurl: /blog-jekyll      # place folder name if the site is served in a subfolder
 twitter_username: _nomennescio
 github_username:  nomennescio1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
-gems:
+remote_theme: broccolini/swiss
+theme_color: red
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
