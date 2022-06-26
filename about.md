@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Este es un blog de música hecho en jekyll que empecé hace varios años para probar la plataforma y eventualmente abandoné. Encontré el código fuente en una partición que ya no uso así que decidí traerlo de vuelta a la vida, con fines de preservación.
+O puede ser que encuentre la motivación de volver a escribir contenido. Veremos, supongo.
